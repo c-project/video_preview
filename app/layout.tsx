@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Some fucking title',
     description: 'Fucking description',
+    url: 'https://file-examples.com/storage/fef6bc58a467a23f99bc53c/2017/04/file_example_MP4_640_3MG.mp4',
     videos: [{
       url: 'https://file-examples.com/storage/fef6bc58a467a23f99bc53c/2017/04/file_example_MP4_640_3MG.mp4',
       width: 640,
