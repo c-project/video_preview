@@ -48,6 +48,17 @@ export default function Home() {
             Read our docs
           </a>
         </div>
+        <video controls width="250">
+          {/* <source src="/media/cc0-videos/flower.webm" type="video/webm" /> */}
+
+          <source src="https://file-examples.com/storage/fef6bc58a467a23f99bc53c/2017/04/file_example_MP4_640_3MG.mp4" type="video/mp4" />
+
+          Download the
+          <a href="/media/cc0-videos/flower.webm">WEBM</a>
+          or
+          <a href="/media/cc0-videos/flower.mp4">MP4</a>
+          video.
+        </video>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
